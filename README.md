@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okeugo, a Geoscientist
 - 👀 I’m interested in coding, Geospatial Data Analytics and Data science 
-- 🌱 I’m currently learning JavaScript, Python, GIS, Geospatial Data Analysis and Data science 
+- 🌱 I’m currently learning Python, GIS, Geospatial Data Analysis and Data science 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
